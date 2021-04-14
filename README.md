@@ -1,6 +1,6 @@
 # BrandStack
 
-The tech startup stack.
+The tech brand startup stack.
 
 Tech Stack | Technologies
 ----- | ------------
