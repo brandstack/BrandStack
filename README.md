@@ -4,7 +4,7 @@ The tech brand startup stack.
 
 Tech Stack | Technologies
 ----- | ------------
-Back End | [Google Cloud Platform](https://cloud.google.com/), [Firebase](https://firebase.google.com/), [Go](https://golang.org/)
-Front End | [Vercel](https://vercel.com/), [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/)
-iOS | [SwiftUI](https://developer.apple.com/xcode/swiftui/), [Swift](https://www.apple.com/swift/)
-Android | [Jetpack Compose](https://developer.android.com/jetpack/compose), [Kotlin](https://kotlinlang.org/)
+Back End | [Go](https://golang.org/), [Google Cloud Platform](https://cloud.google.com/), [Firebase](https://firebase.google.com/)
+Front End | [TypeScript](https://www.typescriptlang.org/), [Vercel](https://vercel.com/), [Next.js](https://nextjs.org/)
+iOS | [Swift](https://www.apple.com/swift/), [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+Android | [Kotlin](https://kotlinlang.org/), [Jetpack Compose](https://developer.android.com/jetpack/compose)
