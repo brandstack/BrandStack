@@ -1,6 +1,6 @@
-# BrandStack
+# BrandMobile
 
-The tech brand startup stack.
+The mobile brand starter stack.
 
 Tech Stack | Technologies
 ----- | ------------
