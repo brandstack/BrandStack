@@ -1,6 +1,6 @@
-# BrandMobile
+# AppBrand
 
-The mobile brand starter stack.
+The app brand starter stack.
 
 Stack | Technologies
 ----- | ------------
