@@ -1,6 +1,6 @@
-# AppBrand
+# App
 
-The app brand starter stack.
+The app template.
 
 Stack | Technologies
 ----- | ------------
